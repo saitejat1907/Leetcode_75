@@ -32,10 +32,12 @@ I made three attempts to solve the problem, refining my approach each time:
 - **Result:** This approach optimized the time complexity and successfully solved the problem.
 
 
-### Code
-
-### Explanation:
+### Code Explanation:
 - **min_price:** Tracks the lowest price encountered so far.
 - **max_profit:** Tracks the maximum profit achieved by comparing the current price with the minimum price.
 - **Algorithm:** The code iterates through the list of prices and dynamically calculates the profit while updating both the minimum price and maximum profit.
+
+
+## Result
+![Result](https://github.com/saitejat1907/Leetcode_75/blob/main/Day1/result.jpg)
 
